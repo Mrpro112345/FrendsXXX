@@ -1,0 +1,2 @@
+# FrendsXXX
+FrendsXXX - minecraft server
