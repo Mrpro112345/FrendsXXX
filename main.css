@@ -1,0 +1,91 @@
+body {
+	background-color: #d3dae8;
+	background-image: url('https://mass-images.pro/files/preview/2/16/d6967c694912e9c8430b075760102dc7.png?1744734909804');
+	background-size: 100px;
+}
+.void {
+	height: 100px;
+}
+.block-Patern{
+	display: flex;
+	justify-content: center;
+}
+
+.block {
+	height: 100px;
+	width: 100px;
+	background-color: #49eb77;
+
+	border-radius: 10px;
+	margin: 0px 900px;
+
+}
+.first {
+	background-color: #d3dae8;
+	background-image: url('https://avatars.mds.yandex.net/i?id=8ec8f52bfdd8096688ce470bb061d089_l-5236410-images-thumbs&n=13');
+	height: 500px;
+	width: 1060px;
+	background-size: cover;
+	background-attachment: fixed;
+	display: grid;
+  	place-items: center;
+	border-radius: 10px;
+}
+p {
+	font-size: 30px;
+	font-family: 'FrontMinecraft.otf', sans-serif;
+	text-align: center;
+	place-items: center;
+}
+
+.Text {
+	font-size: 25px;
+	font-family: 'FrontMinecraft.otf', sans-serif;
+	text-align: justify;
+	place-items: center;
+	color: white;
+	margin: 5px 250px;
+}
+
+
+
+@font-face {
+    font-family: 'FrontMinecraft.otf';
+    src: url('FrontMinecraft.otf') format('opentype');
+}
+
+footer.down-footer {
+    display: block;
+    margin-top: 10px;
+    background-color: #1c1c1c;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.startP{
+	height: 400px;
+}
+.end{
+	height: 100;
+}
+
+.endsIMG {
+	background-color: #d3dae8;
+	background-image: url('https://avatars.mds.yandex.net/i?id=8ec8f52bfdd8096688ce470bb061d089_l-5236410-images-thumbs&n=13');
+	height: 150px;
+	background-size: cover;
+	background-attachment: fixed;
+	display: grid;
+  	place-items: center;
+	border-radius: 10px;
+}
+.StartIMG {
+	background-color: #d3dae8;
+	background-image: url('https://avatars.mds.yandex.net/i?id=8ec8f52bfdd8096688ce470bb061d089_l-5236410-images-thumbs&n=13');
+	height: 50px;
+	background-size: cover;
+	background-attachment: fixed;
+	display: grid;
+  	place-items: center;
+	border-radius: 10px;
+}
