@@ -24,7 +24,7 @@ body {
 	background-color: #d3dae8;
 	background-image: url('https://avatars.mds.yandex.net/i?id=8ec8f52bfdd8096688ce470bb061d089_l-5236410-images-thumbs&n=13');
 	height: 500px;
-	width: 1060px;
+	width: 860px;
 	background-size: cover;
 	background-attachment: fixed;
 	display: grid;
@@ -32,26 +32,39 @@ body {
 	border-radius: 10px;
 }
 p {
-	font-size: 30px;
-	font-family: 'FrontMinecraft.otf', sans-serif;
+	font-family: 'FrontMinecraft.ttf', sans-serif;
 	text-align: center;
 	place-items: center;
 }
+h1 {
+	font-family: 'FrontMinecraft.ttf', sans-serif;
+	text-align: center;
+	place-items: center;
+	line-height: 1.2;
+	color: yellow;
+}
 
 .Text {
-	font-size: 25px;
-	font-family: 'FrontMinecraft.otf', sans-serif;
+	font-size: 22px;
 	text-align: justify;
 	place-items: center;
 	color: white;
-	margin: 5px 250px;
+	margin: 5px 380px;
+	line-height: 1.2;
+}
+.TextList {
+	font-size: 22px;
+	text-align: justify;
+	place-items: center;
+	color: white;
+	margin: 5px 480px;
+	line-height: 1.45;
 }
 
 
-
 @font-face {
-    font-family: 'FrontMinecraft.otf';
-    src: url('FrontMinecraft.otf') format('opentype');
+    font-family: 'FrontMinecraft.ttf';
+    src: url('FrontMinecraft.ttf');
 }
 
 footer.down-footer {
